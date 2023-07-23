@@ -1,0 +1,61 @@
+name: {{project_name.snakeCase()}}
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.1.6
+  lottie: ^2.3.2
+  provider: ^6.0.5
+  shared_preferences: ^2.0.17
+  cached_network_image: ^3.2.3
+  url_launcher: ^6.1.11
+  easy_localization: ^3.0.1
+  internet_connection_checker: ^1.0.0+1
+  flutter_screenutil: ^5.6.0
+  http: ^0.13.6
+  flutter_date_picker_timeline:
+    git: https://github.com/ma7moud3osman/flutter_date_picker_timeline
+  dio: ^4.0.6
+  get_it: ^7.2.0
+  equatable: ^2.0.5
+  dartz: ^0.10.1
+  #  flutter_phoenix: ^1.1.0
+  google_fonts: ^4.0.3
+  fluttertoast: ^8.2.1
+  flutter_rating_bar: ^4.0.1
+  scaled_list: ^2.0.0
+  google_maps_flutter: ^2.2.5
+  geolocator: ^9.0.2
+  image_picker: ^0.8.8
+  http_parser: ^4.0.2
+  geocoding: ^2.1.0
+  qr_flutter: ^4.1.0
+  firebase_core: ^2.13.0
+  google_sign_in: ^6.1.1
+  twitter_login: ^4.4.0
+  sign_in_with_apple: ^4.3.0
+  pin_code_fields: ^7.4.0
+  dotted_border: ^2.0.0+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/svg/
+    - assets/translations/
+    - assets/{{project_name.snakeCase()}}.cer

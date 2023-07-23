@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "465500664688",
+    "project_id": "e-commerce-7a067",
+    "storage_bucket": "e-commerce-7a067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465500664688:android:d993abbc9f28108c3d95b5",
+        "android_client_info": {
+          "package_name": "com.nadeer.grow_mark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465500664688-2nj6aq8otvdfe4v4rs9rh7o9rs5u6elm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nadeer.grow_mark",
+            "certificate_hash": "0c956f9eaf579fc543918cb53e07bb34a2abc34d"
+          }
+        },
+        {
+          "client_id": "465500664688-om82s1hunlh625te8d422mmrd456lsut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9y13VzWmfSajB9zbMnEZAtDx0tzrviPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465500664688-cvb6vkgi1amd31f13qft9udg5b8rs6ff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465500664688-t8j1g2ga9g4aphsb1cbhrrshpcuu4het.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nadeer.mohra",
+                "app_store_id": "6448531295"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465500664688:android:e5c7735798fac5f63d95b5",
+        "android_client_info": {
+          "package_name": "com.nadeer.mohra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465500664688-v1r9u2sfhptkk7q2ukm3fpji3gvtro4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nadeer.mohra",
+            "certificate_hash": "0c956f9eaf579fc543918cb53e07bb34a2abc34d"
+          }
+        },
+        {
+          "client_id": "465500664688-om82s1hunlh625te8d422mmrd456lsut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9y13VzWmfSajB9zbMnEZAtDx0tzrviPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465500664688-cvb6vkgi1amd31f13qft9udg5b8rs6ff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465500664688-t8j1g2ga9g4aphsb1cbhrrshpcuu4het.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nadeer.mohra",
+                "app_store_id": "6448531295"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

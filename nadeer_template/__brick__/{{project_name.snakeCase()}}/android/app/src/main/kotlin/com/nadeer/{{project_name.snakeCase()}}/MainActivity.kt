@@ -1,0 +1,6 @@
+package com.nadeer.{{project_name.snakeCase()}}
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
